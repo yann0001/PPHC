@@ -10,7 +10,28 @@
 <a href="https://trendshift.io/repositories/4395" target="_blank"><img src="https://trendshift.io/api/badge/repositories/4395" alt="johnlui%2FPPHC | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
-### 阅读地址：https://pphc.lvwenhan.com
+<div style="display: flex; flex-wrap: wrap; row-gap: 20px; column-gap: 40px; margin: 20px 0 60px;">
+    <h3 style="width: 100%; margin: 0;">实体书已经出版</h3>
+    <div style="flex: 0 0 240px;">
+        <img src="https://github.com/johnlui/PPHC/blob/main/assets/book.jpg?raw=true" alt="《高并发的哲学原理》实体书" style="width: 100%; border-radius: 4px; border: 1px solid #eee;" />
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <ul style="margin-left: 20px; margin-top: 20px; line-height: 2.4;">
+            <li>紧跟时代的 <b>"AI 架构"</b> 与前沿技术</li>
+            <li>系统化的 <b>"高可用"</b> 与 <b>"分布式理论"</b></li>
+            <li>完整阐述了 <b>"工程化体系"</b> 与 <b>"方法论"</b></li>
+            <li>更加硬核的 <b>"底层原理"</b> 深挖</li>
+            <li>实战项目 <b>"全栈式"</b> 落地</li>
+        </ul>
+        <p style="margin-top: 20px;">
+            <a href="https://item.jd.com/14642937.html" target="_blank">🛒 京东购买 ¥67.6</a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+            <a href="https://m.tb.cn/h.7E8uLLG?tk=kmHfUOPaxlF" target="_blank">✍️ 作者签名版 ¥55</a>
+        </p>
+    </div>
+</div>
+
+### 开源版本阅读地址：https://pphc.lvwenhan.com
 
 **pdf 下载链接在网站右上角。**
 
@@ -22,9 +43,7 @@
 
 我们将从动静分离讲起，一步步深入 Apache、Nginx、epoll、虚拟机、k8s、异步非阻塞、协程、应用网关、L4/L7 负载均衡器、路由器(网关)、交换机、LVS、软件定义网络(SDN)、Keepalived、DPDK、ECMP、全冗余架构、用户态网卡、集中式存储、分布式存储、PCIe 5.0、全村的希望 CXL、InnoDB 三级索引、内存缓存、KV 数据库、列存储、内存数据库、Shared-Nothing、计算存储分离、Paxos、微服务架构、削峰、基于地理位置拆分、高可用等等等等。并最终基于地球和人类社会的基本属性，设计出可以服务地球全体人类的高并发架构。
 
-<img src="./assets/book.jpg" alt="《高并发的哲学原理》实体书">
-
-全书共有 12 章，83 篇文章，总计 167547 字。
+开源版本共有 12 章，83 篇文章，总计 167547 字。
 
 ### 读者评价
 
