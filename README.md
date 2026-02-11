@@ -17,6 +17,9 @@
       <img width="229" src="https://github.com/johnlui/PPHC/blob/main/assets/book.jpg?raw=true" alt="《高并发的哲学原理》实体书" />
     </td>
     <td valign="top">
+      <br />
+      <br />
+      <br />
       <ul>
         <li>紧跟时代的 <b>"AI 架构"</b> 与前沿技术</li>
         <li>系统化的 <b>"高可用"</b> 与 <b>"分布式理论"</b></li>
