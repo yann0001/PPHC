@@ -13,7 +13,7 @@
 <div style="display: flex; flex-wrap: wrap; row-gap: 20px; column-gap: 40px; margin: 20px 0 60px;">
     <h3 style="width: 100%; margin: 0;">实体书已经出版</h3>
     <div style="flex: 0 0 240px;">
-        <img src="https://github.com/johnlui/PPHC/blob/main/assets/book.jpg?raw=true" alt="《高并发的哲学原理》实体书" style="width: 100%; border-radius: 4px; border: 1px solid #eee;" />
+        <img width="229" src="https://github.com/johnlui/PPHC/blob/main/assets/book.jpg?raw=true" alt="《高并发的哲学原理》实体书" style="width: 100%; border-radius: 4px; border: 1px solid #eee;" />
     </div>
     <div style="flex: 1; min-width: 300px;">
         <ul style="margin-left: 20px; margin-top: 20px; line-height: 2.4;">
