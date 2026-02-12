@@ -10,15 +10,15 @@
 <a href="https://trendshift.io/repositories/4395" target="_blank"><img src="https://trendshift.io/api/badge/repositories/4395" alt="johnlui%2FPPHC | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
-<h3 style="width: 100%; margin: 0;">实体书已经出版</h3>
+<h3 style="width: 100%; margin: 0;">纸质书已经出版</h3>
 <table>
   <tr>
     <td width="229" valign="top">
-      <img width="229" src="https://github.com/johnlui/PPHC/blob/main/assets/book.jpg?raw=true" alt="《高并发的哲学原理》实体书" />
+      <img width="229" src="https://github.com/johnlui/PPHC/blob/main/assets/book.jpg?raw=true" alt="《高并发的哲学原理》纸质书" />
     </td>
     <td valign="top">
       <br />
-      <br />
+      <div style="margin-top: 10px;"><b>纸质书新增内容：</b></div>
       <ul>
         <li>紧跟时代的 <b>"AI 架构"</b> 与前沿技术</li>
         <li>系统化的 <b>"高可用"</b> 与 <b>"分布式理论"</b></li>
