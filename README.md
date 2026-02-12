@@ -19,6 +19,7 @@
     <td valign="top">
       <br />
       <div style="margin-top: 10px;"><b>纸质书新增内容：</b></div>
+      <br />
       <ul>
         <li>紧跟时代的 <b>"AI 架构"</b> 与前沿技术</li>
         <li>系统化的 <b>"高可用"</b> 与 <b>"分布式理论"</b></li>
@@ -26,7 +27,6 @@
         <li>更加硬核的 <b>"底层原理"</b> 深挖</li>
         <li>实战项目 <b>"全栈式"</b> 落地</li>
       </ul>
-      <br />
       <p>
         <a href="https://item.jd.com/14642937.html" target="_blank">🛒 京东购买 ¥67.6</a>
         &nbsp;&nbsp;·&nbsp;&nbsp;
